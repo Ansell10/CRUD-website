@@ -28,7 +28,7 @@
                 <a href="/" class="h1"><b>Ans</b> Dev</a>
             </div>
             <div class="card-body">
-                <p class="login-box-msg">Sign in</p>
+                <p class="login-box-msg">Sign in to start your session</p>
                 <form class="needs-validation" novalidate action="/login" method="POST">
                     @csrf
                     <div class="input-group mb-3">
